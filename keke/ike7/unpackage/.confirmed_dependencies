@@ -1,0 +1,146 @@
+{
+	"content_drafter.html": {
+		"resources": [
+			"js/arcgis_map.js",
+			"js/TiandituLayers.js",
+			"img/markerA-blue.png",
+			"js/WebTile.js",
+			"css/claro.css",
+			"img/markerA-green.png",
+			"img/markerA-red.png",
+			"img/markerA-yellow.png",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"js/arcgis_map2.js",
+			"css/mui.min.css",
+			"dcsb_four.html"
+		],
+		"refer": [
+			"dcsb_four.html"
+		]
+	},
+	"index.html": {
+		"resources": [
+			"js/app.js",
+			"images/main_flfg.png",
+			"images/main_jlsb.png",
+			"images/main_sjck.png",
+			"css/common.css",
+			"dcsb_four.html",
+			"images/main_xtsz.png",
+			"images/main_dcjl.png",
+			"js/immersed.js",
+			"images/main_jhck.png",
+			"jhck.html",
+			"sjck.html",
+			"css/mui.min.css",
+			"js/shortcut.js",
+			"jlsb.html",
+			"flfg.html",
+			"dcjl.html"
+		],
+		"refer": [
+			"dcsb_four.html",
+			"flfg.html",
+			"jhck.html",
+			"sjck.html",
+			"jlsb.html",
+			"xtsz.html",
+			"dcjl.html"
+		]
+	},
+	"dcsb_four.html": {
+		"resources": [
+			"content_drafter.html",
+			"js/common.js",
+			"css/common.css",
+			"images/main_jlsb.png",
+			"images/main_sjck.png",
+			"images/main_dcjl.png",
+			"js/immersed.js",
+			"images/main_jhck.png",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"index.html",
+			"css/mui.min.css",
+			"content_record.html",
+			"content_camera.html",
+			"content_video.html"
+		],
+		"refer": [
+			"content_drafter.html",
+			"content_camera.html",
+			"index.html",
+			"content_record.html",
+			"content_video.html"
+		]
+	},
+	"content_camera.html": {
+		"refer": [
+			"dcsb_four.html"
+		],
+		"resources": [
+			"css/common.css",
+			"css/mui.min.css",
+			"dcsb_four.html",
+			"js/mui.min.js",
+			"js/immersed.js"
+		]
+	},
+	"jhck.html": {
+		"refer": [
+			"index.html"
+		],
+		"resources": [
+			"index.html",
+			"js/common.js"
+		]
+	},
+	"sjck.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"index.html"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"jlsb.html": {
+		"resources": [
+			"js/common.js",
+			"index.html"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"flfg.html": {
+		"resources": [
+			"index.html",
+			"css/mui.min.css"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"dcjl.html": {
+		"resources": [
+			"js/mui.min.js",
+			"css/app.css",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"content_record.html": {
+		"resources": [
+			"css/common.css",
+			"css/mui.min.css",
+			"dcsb_four.html"
+		],
+		"refer": [
+			"dcsb_four.html"
+		]
+	}
+}
